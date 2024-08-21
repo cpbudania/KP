@@ -1206,7 +1206,7 @@ body {
 
   .footer-list:last-child { grid-column: auto; }
 
-  .footer .logo img { width: 190px; }
+  .footer .logo img { width: 160px; }
 
 }
 
