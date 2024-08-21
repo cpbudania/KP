@@ -1005,7 +1005,7 @@ body {
    * HEADER
    */
 
-  .alert { padding-block: 10px; }
+  .alert { padding-block: 8px; }
 
   .header-top .container { padding-inline: 30px; }
 
